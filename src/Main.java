@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world! Change main 6 from copy");
+        System.out.println("Hello world! Change main 7");
 
 
 
