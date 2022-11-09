@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world! Change main 8 from a merge conflict");
         System.out.println("This is written in a new branch");
         System.out.println("This is another new branch");
+        System.out.println("Another one");
 
 
 
